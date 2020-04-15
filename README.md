@@ -1,6 +1,6 @@
 <p align="center"><a href="#" target="_blank" rel="noopener"><img src="logowalesz.jpg" alt="old html wal-ez logo"></a></p>
 
-# 																WAL-EZ (2018)
+# 																WAL-EZ (2017)
 
 ### The script to easily purchase hot items  🔥 🧻 📈
 
@@ -8,7 +8,7 @@
 
 
 
-- It all started in 2018 with a simple request from my cousin to recapture a slice of his childhood from Walmart's rare restocks.
+- It all started in late 2017 with a simple request from my cousin to recapture a slice of his childhood from Walmart's rare restocks.
 
 ## Automated, Fast, Purchasing.
 
